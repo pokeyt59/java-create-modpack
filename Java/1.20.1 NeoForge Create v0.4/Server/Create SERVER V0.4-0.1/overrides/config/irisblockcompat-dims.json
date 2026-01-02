@@ -1,0 +1,6 @@
+{
+  "minecraft:overworld": {
+    "enabled": true,
+    "shader": "MakeUp-UltraFast-9.3h.zip"
+  }
+}

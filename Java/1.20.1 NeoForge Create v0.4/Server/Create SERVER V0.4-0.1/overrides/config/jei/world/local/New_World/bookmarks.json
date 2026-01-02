@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:ladder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"ars_nouveau:mana_regen_potion"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:slime_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:zinc_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

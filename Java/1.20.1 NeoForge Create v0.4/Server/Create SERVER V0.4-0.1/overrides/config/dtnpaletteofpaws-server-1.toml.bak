@@ -1,0 +1,4 @@
+#As of now, some biomes doesn't have much spawn causing some DTNP wolf variants
+#to be much more common than anticipated. This option makes DTNP spawns
+#in those biomes have a chance to cancel when attempting to carrying out the spawn.
+fix_dtnp_spawn_too_common = true

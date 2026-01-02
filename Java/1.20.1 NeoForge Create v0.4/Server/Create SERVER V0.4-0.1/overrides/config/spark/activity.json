@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Pokey_yt",
+      "uniqueId": "a46deb07-9ea1-4df0-9f37-fedb45602af8"
+    },
+    "time": 1767381874242,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/m57Xygx9ZX"
+    }
+  }
+]
