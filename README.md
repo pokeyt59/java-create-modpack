@@ -1,4 +1,4 @@
-<h1>Mods Used (as of 0.4)</h1>
+<h1>Mods Used on server side(as of 0.4)</h1>
 <ul>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/create-break-it-all">Create: Break It All (by ieatsoulsmeow)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/create-structures-arise">Create: Structures Arise (by SmartStreamLabs)</a></li>
